@@ -2,4 +2,4 @@
 Notebook
 ========
 
-This repo contains all the data analysis notebooks that I have made for fun, See them all here - 
+This repo contains all the data analysis notebooks that I have made for fun, See them all here - https://trigonaminima.github.io/Notebooks/
